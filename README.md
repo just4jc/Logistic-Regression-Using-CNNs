@@ -1,4 +1,4 @@
-# Logistic-Regression-Using-CNNs
+# Logistic-Regression-Using-Python-and-the-Sigmoid-Function
 IBM Data Science Platform 
 Plots the probability of passing/failing an exam based on the number of hours studied
 Using 3 Python Libraries - Math, Matplotlib and Numpy
